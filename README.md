@@ -1,5 +1,10 @@
 cc7-lab8
 --------
+## Uso ##
+`javac Runner.java && java Runner`
+
+Para desplegar mas detalles del proceso use el parametro `-v`
+
 ## Requisitos ##
 
  - Un puente donde una persona a la vez puede cruzar, durante un lapso de 1-3 segundos.
