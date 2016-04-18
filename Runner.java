@@ -8,7 +8,7 @@ public class Runner  {
     public static void main(String args[]) {
         int numberOfPersons = 0;       
         Scanner inputReader = null;        
-        final boolean printInfo = (args.length > 0 && args[0].equals("-i")) ? true : false; 
+        final boolean printInfo = (args.length > 0 && args[0].equals("-v")) ? true : false; 
         
         while(numberOfPersons < 1) {
             System.out.println("Give me the amount of people will cross: ");
